@@ -74,7 +74,7 @@ I mostly use my car to drive to and from Lubbock, so cruise control is actually 
 - Unfortunately, I did not have the processing knowledge to implement my preferred windshield wiper design. 
 
 ## My final design
-<img src = "p2thomasurech.gif">
+<img><img src = "p2thomasurech.gif"></img>
 ## Source Code
 [p2ThomasUrech.pde](https://github.com/turech/p2.ThomasUrech/blob/main/p2thomasurech.pde)
 
