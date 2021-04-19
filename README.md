@@ -2,7 +2,7 @@
 ## Examining cars
 
 ### This is my car
-![CHR-Dash.jpg](CHR-Dash.jpg)
+<img>![CHR-Dash.jpg](CHR-Dash.jpg)</img>
 - Good: Speedometer, tachometer, fuel gage, and engine heat gage are all clearly visible and easy to read. LED screen holds lots of extra information like fuel economy and estimated miles remaining. LED display also has backup camera, which is super useful.
 - Bad: I cannot tell what gear I am in from the dashboard. It only shows P, N, R, D, but I want to know which specific gear it is using while in D. The car is an automatic, but I should still know what gear it is using when.
 
