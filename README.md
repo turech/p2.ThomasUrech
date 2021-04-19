@@ -32,6 +32,44 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 - Good: uses kilometers per hour as its standard. Radio station in display to prevent looking at mid console. Good use of edge space on LED display for clock and odometer. 
 - Bad: Fuel gage and engine temp too complicated. I do not need 270 degrees of information on those gages since close enough is good enough. Generally, the major gages take up too much room on the edges, bleeding into their secondary gages. A little more space for delineation would be better. Double fade on tachometer is confusing: is 6000 rpm dangerous or just 7200?
 
+## Designing a dashboard
+### Common uses of dashboard
+1.	Check current speed.
+2.	Check fuel level.
+3.	Check time.
+4.	Check temperature.
+5.	Look for any warning lights.
+6.	Check tachometer/miles per gallon.
+7.	Change radio/Bluetooth.
+8.	Turn signal.
+### Uncommon uses
+1.	Check engine temperature.
+2.	Adjust cruise control.
+3.	Set/reset trips, check odometer.
+4.	Windshield wipers
+5.	Turn on lights.
+6.	Backup camera. 
+### Note
+I mostly use my car to drive to and from Lubbock, so cruise control is actually a really important feature for me since I do 90% highway driving. However, most people do city driving so cruise control is less of an important feature.
+### Controls
+-	Set/reset cruise control.
+-	Trip/odometer button.
+-	Scroll LED display
+-	Gas/brake pedal
+-	Gear shift (P/R/N/D)
+-	Radio/Bluetooth settings
+-	Turn signal lever.
+-	Windshield wiper lever.
+-	Driving lights. 
+### Common mistakes
+-	Often forget if daytime running lights are on when I turn off the car.
+-	Hard to tell what setting the windshield wiper is on.
+### Solutions
+-	Be less paranoid, the auto lights turn off when I turn the car off.
+-	Have an indicator which changes color depending on if the windshield wiper is on manual, intermittent, slow, or fast. 
+Unfortunately, I did not have the processing knowledge to implement my preferred windshield wiper design. 
+
+
 ```markdown
 Syntax highlighted code block
 
