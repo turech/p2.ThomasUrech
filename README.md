@@ -49,6 +49,8 @@
 
 ### Note
 I mostly use my car to drive to and from Lubbock, so cruise control is actually a really important feature for me since I do 90% highway driving. However, most people do city driving so cruise control is less of an important feature.
+
+
 ### Controls
 -	Set/reset cruise control.
 -	Trip/odometer button.
@@ -59,13 +61,17 @@ I mostly use my car to drive to and from Lubbock, so cruise control is actually 
 -	Turn signal lever.
 -	Windshield wiper lever.
 -	Driving lights. 
+
+
 ### Common mistakes
 -	Often forget if daytime running lights are on when I turn off the car.
 -	Hard to tell what setting the windshield wiper is on.
+
+
 ### Solutions
 -	Be less paranoid, the auto lights turn off when I turn the car off.
 -	Have an indicator which changes color depending on if the windshield wiper is on manual, intermittent, slow, or fast. 
-Unfortunately, I did not have the processing knowledge to implement my preferred windshield wiper design. 
+- Unfortunately, I did not have the processing knowledge to implement my preferred windshield wiper design. 
 
 ## My final design
 ![p2ThomasUrech.gif](https://github.com/turech/p2.ThomasUrech/blob/main/p2thomasurech.gif)
