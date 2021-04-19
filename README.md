@@ -36,6 +36,8 @@
 6.	Check tachometer/miles per gallon.
 7.	Change radio/Bluetooth.
 8.	Turn signal.
+
+
 ### Uncommon uses
 1.	Check engine temperature.
 2.	Adjust cruise control.
@@ -43,6 +45,8 @@
 4.	Windshield wipers
 5.	Turn on lights.
 6.	Backup camera. 
+
+
 ### Note
 I mostly use my car to drive to and from Lubbock, so cruise control is actually a really important feature for me since I do 90% highway driving. However, most people do city driving so cruise control is less of an important feature.
 ### Controls
