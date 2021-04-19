@@ -1,13 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/turech/p2.ThomasUrech/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 # Thomas Urech HCI project
 ## Examining cars
 
@@ -69,16 +59,8 @@ I mostly use my car to drive to and from Lubbock, so cruise control is actually 
 -	Have an indicator which changes color depending on if the windshield wiper is on manual, intermittent, slow, or fast. 
 Unfortunately, I did not have the processing knowledge to implement my preferred windshield wiper design. 
 
-
-```markdown
-Syntax highlighted code block
-
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+## My final design
+![p2ThomasUrech.gif](https://github.com/turech/p2.ThomasUrech/blob/main/p2ThomasUrech.gif)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
